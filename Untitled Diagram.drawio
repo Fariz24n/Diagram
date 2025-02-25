@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QdS4PF3jraUAPQPTaFRA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QdS4PF3jraUAPQPTaFRA-1" target="QdS4PF3jraUAPQPTaFRA-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QdS4PF3jraUAPQPTaFRA-1" value="Pembeli&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="250" width="30" height="60" as="geometry" />
         </mxCell>
@@ -11,7 +14,15 @@
           <mxGeometry x="225" y="90" width="535" height="620" as="geometry" />
         </mxCell>
         <mxCell id="QdS4PF3jraUAPQPTaFRA-9" value="Membayar Barang" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#333333;fontFamily=Georgia;strokeColor=#1A1A1A;gradientColor=default;" vertex="1" parent="QdS4PF3jraUAPQPTaFRA-7">
-          <mxGeometry x="65" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="105" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdS4PF3jraUAPQPTaFRA-12" value="Menambah barang ke&lt;br&gt;daftar belanjaan" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#333333;fontFamily=Georgia;strokeColor=#1A1A1A;gradientColor=default;" vertex="1" parent="QdS4PF3jraUAPQPTaFRA-7">
+          <mxGeometry x="105" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QdS4PF3jraUAPQPTaFRA-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="QdS4PF3jraUAPQPTaFRA-12" source="QdS4PF3jraUAPQPTaFRA-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="310" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
